@@ -1,5 +1,5 @@
 # week18
 hello 
 my name is nayani
-how are you 
-how's the weather
+i like sushi
+what's your favorite food?
